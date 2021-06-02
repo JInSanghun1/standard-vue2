@@ -2,8 +2,10 @@
 ```
 vue create standard
 select default ([vue 2] babel, dslint)
-```
 
+vue add vuetify
+default (recommended)
+```
 
 ## Project setup
 ```
